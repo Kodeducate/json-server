@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "code": [
     {
       "id": 1,
-      "title": "hello"
+      "lang": "hello",
+      "code": "path/to.zip"
+  
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "langs": [
+    {
+      "id": 1,
+      "name": "python3",
+    }
+  ]
 }
