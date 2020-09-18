@@ -2,10 +2,10 @@
   "code": [
     {
       "id": 1,
-      "lang": "hello",
-      "code": "path/to.zip"
+      "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
+      "code": "path/to.zip",
   
-    }
+    },
   ],
   "langs": [
     {
