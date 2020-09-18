@@ -1,16 +1,16 @@
 {
-  "code": [
-    {
-      "id": 1,
-      "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
-      "code": "path/to.zip",
-  
-    },
-  ],
-  "langs": [
-    {
-      "id": 1,
-      "name": "python3",
-    }
-  ]
-}
+    "code": [
+      {
+        "id": 1,
+        "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
+        "code": "path/to.zip"
+    
+      }
+    ],
+    "langs": [
+      {
+        "id": 1,
+        "name": "python3"
+      }
+    ]
+  }
