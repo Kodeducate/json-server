@@ -3,7 +3,7 @@
       {
         "id": 1,
         "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
-        "code": "path/to.zip"
+        "code": "https://github.com/Kodeducate/json-server/raw/master/MyProject.zip"
     
       }
     ],
