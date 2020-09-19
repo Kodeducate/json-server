@@ -2,15 +2,26 @@
     "code": [
       {
         "id": 1,
+        "projectDir": "MyProject",
         "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
-        "code": "https://github.com/Kodeducate/json-server/raw/master/MyProject.zip"
-    
+        "code": "path/to.zip",
+        "env": [{"cwd": "/home/runner"}],
+        "assignment": "Print Hello World\nGet input from user"
       }
     ],
     "langs": [
       {
         "id": 1,
-        "name": "python3"
+        "displayName": "Python 3",
+        "entrypoint": "main.py",
+        "extension": "py",
+        "name": "python3",
+        "desc": "A programming langugage",
+        "interp": {
+            "command": [
+                "stderred prybar-python3 -q --ps1 '> ' -i main.py"
+            ]
+        }
       }
     ]
   }
