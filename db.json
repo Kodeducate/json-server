@@ -6,7 +6,7 @@
         "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
         "code": "https://github.com/Kodeducate/json-server/raw/master/MyProject.zip",
         "env": [{"cwd": "/home/runner/MyProject"}],
-        "assignment": "Print Hello World\nGet input from user"
+        "assignment": 1
       }
     ],
     "langs": [
@@ -23,5 +23,11 @@
             ]
         }
       }
+    ],
+    "assignments" : [
+        {
+            "id": 1,
+            "desc": "Print Hello World\nGet input from user"
+        }
     ]
   }
