@@ -1,7 +1,7 @@
 {
     "code": [
       {
-        "id": 1,
+        "id": "1",
         "projectDir": "MyProject",
         "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
         "code": "https://github.com/Kodeducate/json-server/raw/master/MyProject.zip",
