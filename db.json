@@ -4,8 +4,8 @@
         "id": 1,
         "projectDir": "MyProject",
         "lang": "http://my-json-server.typicode.com/Kodeducate/json-server/langs/1",
-        "code": "path/to.zip",
-        "env": [{"cwd": "/home/runner"}],
+        "code": "https://github.com/Kodeducate/json-server/raw/master/MyProject.zip",
+        "env": [{"cwd": "/home/runner/MyProject"}],
         "assignment": "Print Hello World\nGet input from user"
       }
     ],
